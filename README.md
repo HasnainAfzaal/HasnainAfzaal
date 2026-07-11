@@ -10,11 +10,11 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0ea5e9"/>
+<img src="https://komarev.com/ghpvc/?username=HasnainAfzaal&style=for-the-badge&color=0ea5e9"/>
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/HasnainAfzaal?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/HasnainAfzaal?style=for-the-badge"/>
 
 </div>
 
@@ -159,9 +159,9 @@ I use AI as a development accelerator to:
 
 # 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HasnainAfzaal&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnainAfzaal&layout=compact&theme=tokyonight"/>
 
 ---
 
