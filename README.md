@@ -167,19 +167,19 @@ I use AI as a development accelerator to:
 
 # 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=HasnainAfzaal&theme=tokyonight"/>
 
 ---
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HasnainAfzaal&theme=tokyo-night"/>
 
 ---
 
 # 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=HasnainAfzaal&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 ---
 
